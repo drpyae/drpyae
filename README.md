@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Ivy Unify ML](https://github.com/drpyae/ivy)
 
-- 🌱 I’m currently learning **Django, Vue.js**
+- 🌱 I’m currently learning **Django, VueJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/drpyae](https://github.com/drpyae)
 
